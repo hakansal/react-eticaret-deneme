@@ -1,5 +1,19 @@
 .Ilt{
-    justify-content: center;
-    align-items:center;
-     ;
+    text-align: center;
+    
+   
+}
+ 
+
+._h1{
+    border: 2px solid black;
+    background-color: antiquewhite;
+    
+}
+._p{
+    border: 2px solid black;
+    background-color: antiquewhite;
+    opacity: 0.8;
+    
+    
 }
